@@ -1,0 +1,133 @@
+name: Generate Profile Metrics
+
+# No "push" trigger on purpose: this workflow commits SVGs back into the repo,
+# and a PAT-authored commit WOULD retrigger a push workflow, causing an infinite loop.
+on:
+  schedule:
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      # ---------------------------------------------------------------
+      # 1. STATS  — replaces github-readme-stats
+      # ---------------------------------------------------------------
+      - name: Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: neeelbhavsar
+          filename: metrics.stats.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_octicon: yes
+          extras_css: |
+            :root {
+              --color-fg-default: #E7E0D6;
+              --color-fg-muted: #A8A29E;
+              --color-fg-subtle: #A8A29E;
+              --color-canvas-default: #1C1917;
+              --color-canvas-subtle: #1C1917;
+              --color-border-default: #3F3A36;
+              --color-border-muted: #3F3A36;
+              --color-accent-fg: #C2703D;
+              --color-calendar-graph-day-bg: #1C1917;
+              --color-calendar-graph-day-L1-bg: #5C3A22;
+              --color-calendar-graph-day-L2-bg: #8C4A24;
+              --color-calendar-graph-day-L3-bg: #C2703D;
+              --color-calendar-graph-day-L4-bg: #E39A6B;
+            }
+            h2, .title { color: #C2703D !important; }
+            svg { background: #1C1917 !important; }
+
+      # ---------------------------------------------------------------
+      # 2. ACHIEVEMENTS  — replaces github-profile-trophy
+      # ---------------------------------------------------------------
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: neeelbhavsar
+          filename: metrics.achievements.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          config_timezone: Asia/Kolkata
+          extras_css: |
+            :root {
+              --color-fg-default: #E7E0D6;
+              --color-fg-muted: #A8A29E;
+              --color-canvas-default: #1C1917;
+              --color-canvas-subtle: #1C1917;
+              --color-border-default: #3F3A36;
+              --color-accent-fg: #C2703D;
+            }
+            h2, .title { color: #C2703D !important; }
+            svg { background: #1C1917 !important; }
+
+      # ---------------------------------------------------------------
+      # 3. ISOCALENDAR  — replaces github-readme-activity-graph
+      # ---------------------------------------------------------------
+      - name: Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: neeelbhavsar
+          filename: metrics.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+          extras_css: |
+            :root {
+              --color-fg-default: #E7E0D6;
+              --color-fg-muted: #A8A29E;
+              --color-canvas-default: #1C1917;
+              --color-canvas-subtle: #1C1917;
+              --color-border-default: #3F3A36;
+              --color-accent-fg: #C2703D;
+              --color-calendar-graph-day-bg: #2A2422;
+              --color-calendar-graph-day-L1-bg: #5C3A22;
+              --color-calendar-graph-day-L2-bg: #8C4A24;
+              --color-calendar-graph-day-L3-bg: #C2703D;
+              --color-calendar-graph-day-L4-bg: #E39A6B;
+            }
+            h2, .title { color: #C2703D !important; }
+            svg { background: #1C1917 !important; }
+
+      # ---------------------------------------------------------------
+      # 4. LANGUAGES  — replaces top-langs
+      # ---------------------------------------------------------------
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: neeelbhavsar
+          filename: metrics.languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          config_timezone: Asia/Kolkata
+          extras_css: |
+            :root {
+              --color-fg-default: #E7E0D6;
+              --color-fg-muted: #A8A29E;
+              --color-canvas-default: #1C1917;
+              --color-canvas-subtle: #1C1917;
+              --color-border-default: #3F3A36;
+              --color-accent-fg: #C2703D;
+            }
+            h2, .title { color: #C2703D !important; }
+            svg { background: #1C1917 !important; }
