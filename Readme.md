@@ -1,24 +1,386 @@
-# 💫 About Me:
-🔭 I'm currently working on scalable backend systems — building robust APIs, microservices & real-time data pipelines.<br>👯 I'm looking to collaborate on open source backend tools, developer utilities & Node.js libraries.<br>🤝 I'm looking for help with system design at scale & distributed systems architecture.<br>🌱 I'm currently learning AI/ML integrations, Agentic AI & cloud-native infrastructure.<br>💬 Ask me about Node.js, REST & GraphQL APIs, database design, or backend architecture.<br>⚡ Fun fact — I've spent 4+ years making sure the things users never see are the reason everything just works.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8C4A24,50:C2703D,100:1C1917&height=220&section=header&text=NEEL%20BHAVSAR&fontSize=58&fontColor=E7E0D6&fontAlignY=38&fontAlign=68&desc=Senior%20Full%20Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20AWS&descSize=17&descAlignY=58&descAlign=68&rotate=8" width="100%" alt="Neel Bhavsar" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neeelbhavsar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeelbhavsar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neelbhavsar124@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C2703D&center=true&vCenter=true&width=900&height=150&lines=%24%20whoami%20-%3E%20Senior%20Full%20Stack%20Developer%20%7C%205%2B%20years;%24%20cat%20stack.txt%20-%3E%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20AWS;%24%20ls%20~%2Fproduction%20-%3E%206%20apps%20serving%2050%2C000%2B%20active%20users;%24%20git%20log%20--stat%20-%3E%20-70%25%20API%20latency%20%2F%20%2B80%25%20throughput;%24%20echo%20%24OPEN_TO%20-%3E%20Remote%20%7C%20Relocation%3A%20Australia" alt="Terminal introduction" />
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neeelbhavsar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=neeelbhavsar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neeelbhavsar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neeelbhavsar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/B.E.-Information%20Technology-C2703D?style=flat-square&labelColor=1C1917" alt="Degree" />
+<img src="https://img.shields.io/badge/Silver%20Oak%20University-2018-C2703D?style=flat-square&labelColor=1C1917" alt="University" />
+<img src="https://img.shields.io/badge/Ahmedabad-India-C2703D?style=flat-square&labelColor=1C1917" alt="Location" />
+<img src="https://img.shields.io/badge/Available-AEST%20hours-C2703D?style=flat-square&labelColor=1C1917" alt="Availability" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=neeelbhavsar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br /><br />
+
+<a href="https://linkedin.com/in/neeelbhavsar"><img src="https://img.shields.io/badge/LINKEDIN-C2703D?style=for-the-badge&logo=linkedin&logoColor=E7E0D6&labelColor=1C1917" alt="LinkedIn" /></a>
+<a href="mailto:neelbhavsar124@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C2703D?style=for-the-badge&logo=gmail&logoColor=E7E0D6&labelColor=1C1917" alt="Email" /></a>
+<a href="https://github.com/neeelbhavsar"><img src="https://img.shields.io/badge/GITHUB-C2703D?style=for-the-badge&logo=github&logoColor=E7E0D6&labelColor=1C1917" alt="GitHub" /></a>
+<a href="tel:+919904548741"><img src="https://img.shields.io/badge/PHONE-C2703D?style=for-the-badge&logo=whatsapp&logoColor=E7E0D6&labelColor=1C1917" alt="Phone" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=neeelbhavsar&label=PROFILE%20VIEWS&color=C2703D&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/neeelbhavsar?label=FOLLOWERS&style=flat-square&color=C2703D&labelColor=1C1917" alt="Followers" />
+<img src="https://img.shields.io/github/stars/neeelbhavsar?label=TOTAL%20STARS&style=flat-square&color=C2703D&labelColor=1C1917" alt="Stars" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=neeelbhavsar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `$ cat about.md`
+
+Senior Full Stack Developer with 5+ years building production web applications across streaming, edtech, sports and rentals. I specialise in the MERN stack with deep Node.js and TypeScript work — the kind of engineering where a 70% cut in API response time and an 80% throughput gain matter more than the framework on the sticker.
+
+I have shipped six production applications end-to-end serving 50,000+ active users, led a team of five, and handled everything from Figma-to-pixel frontend work to AWS infrastructure at 99.9% uptime. Currently open to relocation to Australia with visa sponsorship, or remote roles in AEST hours.
+
+```bash
+ROLE      = "Senior Full Stack Developer (Node.js / React)"
+EXP       = "5+ years"
+DOMAIN    = ["Streaming", "EdTech", "Sports", "Rentals"]
+STACK     = ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "AWS", "MongoDB"]
+OPEN_TO   = ["Senior Full Stack", "Backend-heavy Full Stack", "Tech Lead"]
+LOCATION  = "Ahmedabad, India -> open to AU relocation / remote"
+```
+
+---
+
+### `$ ls ~/stack`
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" alt="Frontend stack" />
+
+**Backend & Realtime**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,rabbitmq,graphql&theme=dark" alt="Backend stack" />
+
+**Databases & Caching**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,neo4j,prisma,sequelize&theme=dark" alt="Databases" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,nginx&theme=dark" alt="Cloud and DevOps" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,postman,materialui,firebase,vscode,npm&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+### `$ grep -r "specialty" .`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Auth0-C2703D?style=flat-square&logo=auth0&logoColor=E7E0D6&labelColor=1C1917" alt="Auth0" />
+<img src="https://img.shields.io/badge/AWS%20Cognito-C2703D?style=flat-square&logo=amazonaws&logoColor=E7E0D6&labelColor=1C1917" alt="AWS Cognito" />
+<img src="https://img.shields.io/badge/JWT-C2703D?style=flat-square&logo=jsonwebtokens&logoColor=E7E0D6&labelColor=1C1917" alt="JWT" />
+<img src="https://img.shields.io/badge/OAuth%202.0-C2703D?style=flat-square&logo=openid&logoColor=E7E0D6&labelColor=1C1917" alt="OAuth 2.0" />
+<img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-8C4A24?style=flat-square&logo=amazonaws&logoColor=E7E0D6&labelColor=1C1917" alt="Secrets Manager" />
+<br />
+<img src="https://img.shields.io/badge/Microservices-C2703D?style=flat-square&logoColor=E7E0D6&labelColor=1C1917" alt="Microservices" />
+<img src="https://img.shields.io/badge/REST%20API%20Design-C2703D?style=flat-square&logoColor=E7E0D6&labelColor=1C1917" alt="REST API Design" />
+<img src="https://img.shields.io/badge/WebSockets-C2703D?style=flat-square&logo=socketdotio&logoColor=E7E0D6&labelColor=1C1917" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Redis%20Caching-8C4A24?style=flat-square&logo=redis&logoColor=E7E0D6&labelColor=1C1917" alt="Redis Caching" />
+<img src="https://img.shields.io/badge/Redis%20Bull-8C4A24?style=flat-square&logo=redis&logoColor=E7E0D6&labelColor=1C1917" alt="Redis Bull" />
+<br />
+<img src="https://img.shields.io/badge/Stripe-C2703D?style=flat-square&logo=stripe&logoColor=E7E0D6&labelColor=1C1917" alt="Stripe" />
+<img src="https://img.shields.io/badge/PayPal-C2703D?style=flat-square&logo=paypal&logoColor=E7E0D6&labelColor=1C1917" alt="PayPal" />
+<img src="https://img.shields.io/badge/Twilio-8C4A24?style=flat-square&logo=twilio&logoColor=E7E0D6&labelColor=1C1917" alt="Twilio" />
+<img src="https://img.shields.io/badge/SendGrid-8C4A24?style=flat-square&logo=maildotru&logoColor=E7E0D6&labelColor=1C1917" alt="SendGrid" />
+<img src="https://img.shields.io/badge/Figma--to--UI-C2703D?style=flat-square&logo=figma&logoColor=E7E0D6&labelColor=1C1917" alt="Figma to UI" />
+
+</div>
+
+---
+
+### `$ cat expertise.tsv`
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Backend & APIs** | `████████████` | Node.js, Express, NestJS, RESTful API design, microservices. Cut API response times 70% via indexing, Redis caching and background job processing — P95 under 250 ms. |
+| **Frontend Engineering** | `███████████░` | React, Next.js, TypeScript, Tailwind CSS, Material UI. Component-driven architecture, code splitting, lazy loading, render optimisation, pixel-accurate Figma translation. |
+| **Databases & Caching** | `███████████░` | MongoDB, PostgreSQL, MySQL, Redis, Neo4j. Prisma and Sequelize ORMs. Eliminated N+1 queries to enable 3x traffic with no added infrastructure cost. |
+| **Cloud & DevOps** | `██████████░░` | AWS EC2, RDS, S3, SES, Cognito, Secrets Manager. Docker, CI/CD, Git. Deployed and maintained infrastructure at 99.9% uptime. |
+| **Auth & Security** | `██████████░░` | Auth0, AWS Cognito, JWT, OAuth 2.0. Zero security incidents across 10,000+ authenticated users. |
+| **Realtime & Payments** | `██████████░░` | Socket.io at sub-100 ms notification latency. Stripe and PayPal integrations processing USD 50,000+ monthly, API and checkout flows both. |
+
+---
+
+### `$ ls -la ~/projects`
+
+<details open>
+<summary><b>Braganza Auto Collezione</b> — Car Rental Marketplace · <code>Jan 2026 – Present</code></summary>
+
+<br />
+
+Full-stack car rental marketplace managing a fleet of 200+ vehicles, built end-to-end on the MERN stack. I developed both the React frontend and the Node.js/Express backend, translated the Figma designs into a responsive booking interface, and integrated Booqable with real-time WebSocket booking updates.
+
+| | |
+| :--- | :--- |
+| **Stack** | React · Node.js · Express · MongoDB · WebSockets · Booqable |
+| **Scale** | 200+ vehicles under management |
+| **Impact** | Booking interface redesign reduced customer support tickets by 40% |
+| **My role** | End-to-end: frontend, backend, Figma-to-UI, third-party integration |
+
+</details>
+
+<details>
+<summary><b>Streamerdap</b> — Live Streaming Platform · <code>Jul 2025 – Jan 2026</code></summary>
+
+<br />
+
+Backend for a live streaming platform supporting concurrent broadcast at scale, including a PayPal payout system for streamer earnings. I owned the backend architecture and the database performance work.
+
+| | |
+| :--- | :--- |
+| **Stack** | Node.js · MongoDB · PayPal API · WebSockets |
+| **Scale** | 500+ concurrent streamers · 5,000+ weekly payouts |
+| **Impact** | Payout accuracy at 99.5%; dashboard load times cut 55% during peak traffic |
+| **My role** | Backend architecture, payout system, database optimisation |
+
+</details>
+
+<details>
+<summary><b>Jolt</b> — CMS & Film Streaming Platform · <code>Mar 2025 – Jul 2025</code></summary>
+
+<br />
+
+Dual-purpose platform combining a content management system with film streaming, handling large media uploads through scalable AWS S3 pipelines and controlled publishing workflows.
+
+| | |
+| :--- | :--- |
+| **Stack** | Node.js · React · AWS S3 · MongoDB |
+| **Scale** | Media upload pipelines on S3 |
+| **Impact** | Unified CMS and streaming in one platform with controlled publishing workflows |
+| **My role** | Architecture of the dual-purpose system and the S3 media pipeline |
+
+</details>
+
+<details>
+<summary><b>SpingR</b> — Professional Networking Platform · <code>Jul 2024 – Feb 2025</code></summary>
+
+<br />
+
+Professional networking platform built on graph-based relationship discovery, plus a digital business card product and real-time chat. The Neo4j modelling here is the work I am most proud of.
+
+| | |
+| :--- | :--- |
+| **Stack** | Node.js · Neo4j · React · Socket.io |
+| **Scale** | 100,000+ graph nodes · 10,000+ professionals |
+| **Impact** | Sub-200 ms relationship-discovery queries across 100,000+ nodes |
+| **My role** | Graph data modelling, digital business card platform, real-time chat |
+
+</details>
+
+<details>
+<summary><b>iMentor</b> — EdTech Mentorship Platform · <code>Aug 2023 – Jun 2024</code></summary>
+
+<br />
+
+CMS-driven mentorship platform deployed across three educational institutions, with an automated algorithm matching mentors to mentees.
+
+| | |
+| :--- | :--- |
+| **Stack** | Node.js · React · MongoDB |
+| **Scale** | 3 educational institutions |
+| **Impact** | Automated mentor–mentee matching improved satisfaction scores by 35% |
+| **My role** | Platform architecture and the matching algorithm design |
+
+</details>
+
+---
+
+### `$ git log --author="Neel"`
+
+<div align="center">
+<img src="https://img.shields.io/badge/Apr%202021%20%E2%80%94%20Present-C2703D?style=for-the-badge&labelColor=1C1917" alt="Apr 2021 to Present" />
+</div>
+
+**Senior Full Stack Developer (Node.js / React)** — Artoon Solutions Pvt. Ltd. · *Ahmedabad, India*
+
+- Architected and delivered **6 production web applications** end-to-end on the MERN stack, serving **50,000+ active users** across multiple platforms.
+- Reduced API response times by **70%** through strategic database indexing, Redis caching and background job processing, achieving **P95 latency under 250 ms**.
+- Improved application throughput by **80%** via code refactoring and N+1 query elimination, enabling **3x traffic** with no added infrastructure cost.
+- Integrated Stripe and PayPal to process **USD 50,000+ in monthly transactions**, building both the API integration and the frontend checkout flows.
+- Built real-time features with Socket.io at **sub-100 ms notification latency**; deployed and maintained AWS infrastructure at **99.9% uptime**.
+- Led a team of **5 developers**, running code reviews and mentoring junior engineers while aligning delivery with business goals.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MERN-C2703D?style=flat-square&labelColor=1C1917" alt="MERN" />
+<img src="https://img.shields.io/badge/TypeScript-C2703D?style=flat-square&labelColor=1C1917" alt="TypeScript" />
+<img src="https://img.shields.io/badge/AWS-C2703D?style=flat-square&labelColor=1C1917" alt="AWS" />
+<img src="https://img.shields.io/badge/Redis-C2703D?style=flat-square&labelColor=1C1917" alt="Redis" />
+<img src="https://img.shields.io/badge/Socket.io-C2703D?style=flat-square&labelColor=1C1917" alt="Socket.io" />
+<img src="https://img.shields.io/badge/Team%20Leadership-8C4A24?style=flat-square&labelColor=1C1917" alt="Team Leadership" />
+<img src="https://img.shields.io/badge/Mentoring-8C4A24?style=flat-square&labelColor=1C1917" alt="Mentoring" />
+
+</div>
+
+---
+
+### `$ cat achievements.tsv`
+
+<div align="center">
+
+| Achievement | Metric | Where |
+| :--- | :---: | :--- |
+| API response time reduction | **-70%** | Artoon Solutions |
+| Application throughput gain | **+80%** | Artoon Solutions |
+| Traffic capacity with no added infra cost | **3x** | Artoon Solutions |
+| Production applications delivered end-to-end | **6** | Artoon Solutions |
+| Active users served | **50,000+** | Artoon Solutions |
+| Security incidents across authenticated users | **0** for 10,000+ | Artoon Solutions |
+| Monthly transaction volume processed | **USD 50,000+** | Stripe / PayPal |
+| AWS infrastructure uptime | **99.9%** | Artoon Solutions |
+| Realtime notification latency | **sub-100 ms** | Socket.io |
+| Developers led and mentored | **5** | Artoon Solutions |
+| Graph query latency across 100,000+ nodes | **sub-200 ms** | SpingR |
+| Weekly payout accuracy | **99.5%** on 5,000+ | Streamerdap |
+| Peak-traffic dashboard load reduction | **-55%** | Streamerdap |
+| Support ticket reduction after UX rebuild | **-40%** | Braganza Auto Collezione |
+| Mentorship satisfaction score improvement | **+35%** | iMentor |
+
+</div>
+
+---
+
+### `$ cat education.txt`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Bachelor%20of%20Engineering-Information%20Technology-C2703D?style=for-the-badge&labelColor=1C1917" alt="B.E. Information Technology" />
+<br /><br />
+<img src="https://img.shields.io/badge/Silver%20Oak%20University-Ahmedabad%2C%20India%20%C2%B7%202018-8C4A24?style=for-the-badge&labelColor=1C1917" alt="Silver Oak University 2018" />
+
+</div>
+
+---
+
+### `$ cat languages.txt`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/English-Full%20Professional-C2703D?style=flat-square&labelColor=1C1917" alt="English" />
+<img src="https://img.shields.io/badge/Hindi-Native-C2703D?style=flat-square&labelColor=1C1917" alt="Hindi" />
+<img src="https://img.shields.io/badge/Gujarati-Native-C2703D?style=flat-square&labelColor=1C1917" alt="Gujarati" />
+
+</div>
+
+---
+
+### `$ gh api /users/neeelbhavsar/stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neeelbhavsar&show_icons=true&count_private=true&include_all_commits=true&title_color=C2703D&icon_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=neeelbhavsar&background=1C1917&border=3F3A36&stroke=3F3A36&ring=C2703D&fire=C2703D&currStreakNum=E7E0D6&sideNums=E7E0D6&currStreakLabel=C2703D&sideLabels=A8A29E&dates=A8A29E&border_radius=6" height="180" alt="Contribution streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeelbhavsar&layout=compact&langs_count=10&hide_progress=false&title_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="Top languages" />
+
+</div>
+
+---
+
+### `$ ls ~/trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=neeelbhavsar&theme=gruvbox&column=7&row=2&margin-w=6&margin-h=6&no-frame=false&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" width="100%" alt="GitHub trophies" />
+
+</div>
+
+---
+
+### `$ tail -f ~/activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neeelbhavsar&bg_color=1C1917&color=E7E0D6&line=C2703D&point=E7E0D6&area_color=C2703D&title_color=C2703D&area=true&hide_border=false&border_color=3F3A36&custom_title=Contribution%20Activity%20%E2%80%94%20Last%20Year&radius=6" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+### `$ cat ~/summary/*.json`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeelbhavsar&theme=gruvbox" width="100%" alt="Profile details" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Most committed language" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeelbhavsar&theme=gruvbox&utcOffset=5.5" width="49%" alt="Productive time" />
+
+</div>
+
+---
+
+### `$ ./snake --eat-contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+### `$ cat focus.yaml`
+
+```yaml
+currently:
+  building:
+    - name: Braganza Auto Collezione
+      what: Car rental marketplace on the MERN stack, 200+ vehicle fleet
+      focus: Real-time WebSocket booking updates and Booqable integration
+  learning:
+    - NestJS at architectural depth — modular design, DI, testing patterns
+    - Graph data modelling with Neo4j beyond relationship discovery
+    - AWS solutions architecture — moving from deploying to designing
+  exploring:
+    - Event-driven microservices with RabbitMQ and Redis Bull queues
+    - Next.js server components and edge rendering trade-offs
+    - Observability — tracing P95 latency instead of guessing at it
+  open_to:
+    - Senior Full Stack Engineer (Node.js / React)
+    - Backend-heavy Full Stack Engineer
+    - Technical Lead / Team Lead
+  logistics:
+    location: Ahmedabad, India
+    relocation: Australia — visa sponsorship required
+    remote: Yes — available for interviews in AEST hours
+```
+
+---
+
+### `$ ./connect.sh`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/neeelbhavsar"><img src="https://img.shields.io/badge/LinkedIn-C2703D?style=for-the-badge&logo=linkedin&logoColor=E7E0D6&labelColor=1C1917" alt="LinkedIn" /></a>
+<a href="mailto:neelbhavsar124@gmail.com"><img src="https://img.shields.io/badge/Email-C2703D?style=for-the-badge&logo=gmail&logoColor=E7E0D6&labelColor=1C1917" alt="Email" /></a>
+<a href="https://github.com/neeelbhavsar"><img src="https://img.shields.io/badge/GitHub-C2703D?style=for-the-badge&logo=github&logoColor=E7E0D6&labelColor=1C1917" alt="GitHub" /></a>
+<a href="tel:+919904548741"><img src="https://img.shields.io/badge/%2B91%209904548741-C2703D?style=for-the-badge&logo=whatsapp&logoColor=E7E0D6&labelColor=1C1917" alt="Phone" /></a>
+
+<br /><br />
+
+*Performance is not a feature you add at the end — it is a decision you make at every layer.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0D0C,50:C2703D,100:8C4A24&height=140&section=footer" width="100%" alt="" />
