@@ -13,6 +13,7 @@
 
 <br /><br />
 
+<a href="https://github.com/neeelbhavsar/terminal-sovereign"><img src="https://img.shields.io/badge/PORTFOLIO-C2703D?style=for-the-badge&logo=vercel&logoColor=E7E0D6&labelColor=1C1917" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/neeelbhavsar"><img src="https://img.shields.io/badge/LINKEDIN-C2703D?style=for-the-badge&logo=linkedin&logoColor=E7E0D6&labelColor=1C1917" alt="LinkedIn" /></a>
 <a href="mailto:neelbhavsar124@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C2703D?style=for-the-badge&logo=gmail&logoColor=E7E0D6&labelColor=1C1917" alt="Email" /></a>
 <a href="https://github.com/neeelbhavsar"><img src="https://img.shields.io/badge/GITHUB-C2703D?style=for-the-badge&logo=github&logoColor=E7E0D6&labelColor=1C1917" alt="GitHub" /></a>
@@ -279,32 +280,28 @@ CMS-driven mentorship platform deployed across three educational institutions, w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neeelbhavsar&show_icons=true&count_private=true&include_all_commits=true&title_color=C2703D&icon_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=neeelbhavsar&show_icons=true&count_private=true&cache_seconds=86400&title_color=C2703D&icon_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=neeelbhavsar&background=1C1917&border=3F3A36&stroke=3F3A36&ring=C2703D&fire=C2703D&currStreakNum=E7E0D6&sideNums=E7E0D6&currStreakLabel=C2703D&sideLabels=A8A29E&dates=A8A29E&border_radius=6" height="180" alt="Contribution streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeelbhavsar&layout=compact&langs_count=10&hide_progress=false&title_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeelbhavsar&layout=compact&langs_count=10&hide_progress=false&cache_seconds=86400&title_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="Top languages" />
 
 </div>
 
 ---
 
-### `$ ls ~/trophies`
+### `$ ls ~/open-source`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=neeelbhavsar&theme=gruvbox&column=7&row=2&margin-w=6&margin-h=6&no-frame=false&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" width="100%" alt="GitHub trophies" />
-
-</div>
-
----
-
-### `$ tail -f ~/activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neeelbhavsar&bg_color=1C1917&color=E7E0D6&line=C2703D&point=E7E0D6&area_color=C2703D&title_color=C2703D&area=true&hide_border=false&border_color=3F3A36&custom_title=Contribution%20Activity%20%E2%80%94%20Last%20Year&radius=6" width="100%" alt="Contribution activity graph" />
+| Repository | What it is | Stack |
+| :--- | :--- | :--- |
+| **[mcp-skills-hub](https://github.com/neeelbhavsar/mcp-skills-hub)** | Auto-updating directory of AI skills, MCP servers and top repos for Claude, Cursor, Codex and Windsurf | ![TypeScript](https://img.shields.io/badge/TypeScript-C2703D?style=flat-square&labelColor=1C1917) |
+| **[terminal-sovereign](https://github.com/neeelbhavsar/terminal-sovereign)** | Full-stack portfolio showcasing Node.js and backend architecture work | ![Next.js](https://img.shields.io/badge/Next.js-C2703D?style=flat-square&labelColor=1C1917) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-8C4A24?style=flat-square&labelColor=1C1917) |
+| **[signalDeck](https://github.com/neeelbhavsar/signalDeck)** | Lightweight webhook monitoring tool — capture and track incoming webhooks from third-party services in real time | ![JavaScript](https://img.shields.io/badge/JavaScript-C2703D?style=flat-square&labelColor=1C1917) ![npm](https://img.shields.io/badge/npm-8C4A24?style=flat-square&labelColor=1C1917) |
+| **[docify](https://github.com/neeelbhavsar/docify)** | Environment-wise documentation for credentials, env vars and notes | ![TypeScript](https://img.shields.io/badge/TypeScript-C2703D?style=flat-square&labelColor=1C1917) |
+| **[User-Management](https://github.com/neeelbhavsar/User-Management)** | User management service | ![JavaScript](https://img.shields.io/badge/JavaScript-C2703D?style=flat-square&labelColor=1C1917) |
 
 </div>
 
