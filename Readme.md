@@ -276,36 +276,43 @@ CMS-driven mentorship platform deployed across three educational institutions, w
 
 ---
 
-### `$ gh api /users/neeelbhavsar/stats`
+### `$ cat career-metrics.txt`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.stats.svg" width="100%" alt="GitHub stats" />
+**Delivered in production at Artoon Solutions — 2021 to present**
+
+<img src="https://img.shields.io/badge/API%20LATENCY-70%25%20FASTER-C2703D?style=for-the-badge&labelColor=1C1917" alt="API latency" />
+<img src="https://img.shields.io/badge/THROUGHPUT-%2B80%25-C2703D?style=for-the-badge&labelColor=1C1917" alt="Throughput" />
+<img src="https://img.shields.io/badge/TRAFFIC-3x%20CAPACITY-C2703D?style=for-the-badge&labelColor=1C1917" alt="Traffic capacity" />
+
+<img src="https://img.shields.io/badge/ACTIVE%20USERS-50%2C000%2B-C2703D?style=for-the-badge&labelColor=1C1917" alt="Active users" />
+<img src="https://img.shields.io/badge/PRODUCTION%20APPS-6%20SHIPPED-C2703D?style=for-the-badge&labelColor=1C1917" alt="Production apps" />
+<img src="https://img.shields.io/badge/TEAM%20LED-5%20ENGINEERS-C2703D?style=for-the-badge&labelColor=1C1917" alt="Team led" />
+
+<img src="https://img.shields.io/badge/TRANSACTIONS-USD%2050K%2B%20MONTHLY-8C4A24?style=for-the-badge&labelColor=1C1917" alt="Transaction volume" />
+<img src="https://img.shields.io/badge/AWS%20UPTIME-99.9%25-8C4A24?style=for-the-badge&labelColor=1C1917" alt="Uptime" />
+<img src="https://img.shields.io/badge/SECURITY%20INCIDENTS-ZERO-8C4A24?style=for-the-badge&labelColor=1C1917" alt="Security incidents" />
+
+<img src="https://img.shields.io/badge/REALTIME-SUB--100ms-8C4A24?style=for-the-badge&labelColor=1C1917" alt="Realtime latency" />
+<img src="https://img.shields.io/badge/GRAPH%20QUERIES-SUB--200ms%20%40%20100K%20NODES-8C4A24?style=for-the-badge&labelColor=1C1917" alt="Graph query latency" />
+
+<sub>Every figure above is from shipped work. Detail and attribution in the tables further up.</sub>
+
+</div>
+
+---
+
+### `$ cat ~/stack-evidence`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.languages.svg" width="60%" alt="Language breakdown" />
 
 <br />
 
-<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.languages.svg" width="49%" alt="Language breakdown" />
-<img src="https://streak-stats.demolab.com?user=neeelbhavsar&background=1C1917&border=3F3A36&stroke=3F3A36&ring=C2703D&fire=C2703D&currStreakNum=E7E0D6&sideNums=E7E0D6&currStreakLabel=C2703D&sideLabels=A8A29E&dates=A8A29E&border_radius=6" width="49%" alt="Contribution streak" />
-
-</div>
-
----
-
-### `$ ls ~/trophies`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.achievements.svg" width="100%" alt="GitHub achievements" />
-
-</div>
-
----
-
-### `$ tail -f ~/activity.log`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.isocalendar.svg" width="100%" alt="Contribution calendar" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Most committed language" />
 
 </div>
 
@@ -322,26 +329,6 @@ CMS-driven mentorship platform deployed across three educational institutions, w
 | **[signalDeck](https://github.com/neeelbhavsar/signalDeck)** | Lightweight webhook monitoring tool — capture and track incoming webhooks from third-party services in real time | ![JavaScript](https://img.shields.io/badge/JavaScript-C2703D?style=flat-square&labelColor=1C1917) ![npm](https://img.shields.io/badge/npm-8C4A24?style=flat-square&labelColor=1C1917) |
 | **[docify](https://github.com/neeelbhavsar/docify)** | Environment-wise documentation for credentials, env vars and notes | ![TypeScript](https://img.shields.io/badge/TypeScript-C2703D?style=flat-square&labelColor=1C1917) |
 | **[User-Management](https://github.com/neeelbhavsar/User-Management)** | User management service | ![JavaScript](https://img.shields.io/badge/JavaScript-C2703D?style=flat-square&labelColor=1C1917) |
-
-</div>
-
----
-
-### `$ cat ~/summary/*.json`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeelbhavsar&theme=gruvbox" width="100%" alt="Profile details" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Most committed language" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeelbhavsar&theme=gruvbox" width="49%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeelbhavsar&theme=gruvbox&utcOffset=5.5" width="49%" alt="Productive time" />
 
 </div>
 
