@@ -17,6 +17,14 @@
  --color-calendar-graph-day-L4-bg: #E39A6B;
 }
 h2, .title { color: #C2703D !important; }
+/* Metrics writes calendar cells as hardcoded fill attributes, not
+ CSS variables, so the :root ramp above never reaches them.
+ These override GitHub's green defaults with the copper ramp. */
+[fill="#ebedf0"] { fill: #2A2422 !important; }
+[fill="#9be9a8"] { fill: #5C3A22 !important; }
+[fill="#40c463"] { fill: #8C4A24 !important; }
+[fill="#30a14e"] { fill: #C2703D !important; }
+[fill="#216e39"] { fill: #E39A6B !important; }
 svg { background: #1C1917 !important; }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
