@@ -280,12 +280,32 @@ CMS-driven mentorship platform deployed across three educational institutions, w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neeelbhavsar&show_icons=true&count_private=true&cache_seconds=86400&title_color=C2703D&icon_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=neeelbhavsar&background=1C1917&border=3F3A36&stroke=3F3A36&ring=C2703D&fire=C2703D&currStreakNum=E7E0D6&sideNums=E7E0D6&currStreakLabel=C2703D&sideLabels=A8A29E&dates=A8A29E&border_radius=6" height="180" alt="Contribution streak" />
+<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.stats.svg" width="100%" alt="GitHub stats" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeelbhavsar&layout=compact&langs_count=10&hide_progress=false&cache_seconds=86400&title_color=C2703D&text_color=E7E0D6&bg_color=1C1917&border_color=3F3A36&hide_border=false&border_radius=6" height="180" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.languages.svg" width="49%" alt="Language breakdown" />
+<img src="https://streak-stats.demolab.com?user=neeelbhavsar&background=1C1917&border=3F3A36&stroke=3F3A36&ring=C2703D&fire=C2703D&currStreakNum=E7E0D6&sideNums=E7E0D6&currStreakLabel=C2703D&sideLabels=A8A29E&dates=A8A29E&border_radius=6" width="49%" alt="Contribution streak" />
+
+</div>
+
+---
+
+### `$ ls ~/trophies`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.achievements.svg" width="100%" alt="GitHub achievements" />
+
+</div>
+
+---
+
+### `$ tail -f ~/activity.log`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/neeelbhavsar/neeelbhavsar/main/metrics.isocalendar.svg" width="100%" alt="Contribution calendar" />
 
 </div>
 
